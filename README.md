@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rashednadeem
-- 👀 I’m interested in C# asp.net and vb.net
-- 🌱 I’m currently learning asp.net core
+- 👀 I’m interested in C# asp.net core, SQL server and vb.net
+- 🌱 I’m currently learning asp.net core and MAUI Applications
 - 💞️ I’m looking to collaborate on HRM Modules
 - 📫 How to reach me rashednadeem@hotmail.com
 <!---
